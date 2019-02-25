@@ -10,6 +10,5 @@ def fizzbuzz(num)
   elsif num % 5 == 0 && % 3 == 0
     "FizzBuzz"
   end
-  end
-end
+
 end
